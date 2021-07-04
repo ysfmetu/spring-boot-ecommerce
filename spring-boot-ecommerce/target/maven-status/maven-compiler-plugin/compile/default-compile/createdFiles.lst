@@ -1,0 +1,6 @@
+com\luv2code\ecommerce\SpringBootEcommerceApplication.class
+com\luv2code\ecommerce\entity\ProductCategory.class
+com\luv2code\ecommerce\entity\Product.class
+com\luv2code\ecommerce\config\MyDataRestConfig.class
+com\luv2code\ecommerce\dao\ProductRepository.class
+com\luv2code\ecommerce\dao\ProductCategoryRepository.class
